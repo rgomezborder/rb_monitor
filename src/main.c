@@ -101,7 +101,7 @@ static void printHelp(const char *progName) {
 		"  -c <config>  Path to configuration file\n"
 		"  -d           Debug\n"
 		"\n"
-		" This program will fetch SNMP data and re-send it to "
+		" This rgomez program will fetch SNMP data and re-send it to "
 		"a Apache kafka broker.\n"
 		" See config file for details."
 		"\n",
